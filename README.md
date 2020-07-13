@@ -7,7 +7,3 @@
 Deployed at: _http://ec2-52-14-118-27.us-east-2.compute.amazonaws.com:8080/_
 
 • Please do ⭐ the repository, if it helped you in anyway.
-
-• A glimpse of the web app:
-
- ![GIF](readme_resources/ipl-first-innings-score-web-app.gif)
